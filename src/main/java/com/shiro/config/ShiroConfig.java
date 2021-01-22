@@ -63,6 +63,4 @@ public class ShiroConfig {
     public ShiroDialect getShiroDialect(){
         return  new ShiroDialect();
     }
-
-
 }
